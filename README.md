@@ -83,7 +83,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/">
-        <img src="//i.namu.wiki/i/Ld7Boc-XeftjL6OGR1X8TGqcBXvjTNClRRypVrEM65yS0rkokPC4ZW4gYFgVQoQT0Ir2Zo0v9CghW_znA_9qmzAnLMgrrCiw9gmQgqg-3aXPwB9sE_hOW23Z0nC6BJVwPUSUnlcG1QSttl2trGJigw.webp" width="110px;" height="90px" alt=""/><br />
+        <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788992505734.jpg" width="110px;" height="90px" alt=""/><br />
         <sub><b>최우성</b></sub></a><br />
         <a href="https://github.com/BABO00" title="Code">💻</a>
     </td>
