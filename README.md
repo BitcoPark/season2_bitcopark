@@ -1,10 +1,9 @@
 # Season 2 (2026.04.04 ~ )
-- [1회차](#1회차)
 
 
 
 
-## 1회차
+## 1회차 
 - [RestAPI 설계](Recap/Season02.Session01.md)
   - RestAPI 설계
     - GETㆍPOSTㆍPUTㆍDELETE 1시간이내 설계
@@ -14,6 +13,9 @@
     - GETㆍPOSTㆍPUTㆍDELETE 구별실익 논의
     - PATCH 취급 논의
 
+
+## 2회차 (2026.04.11 ~ )
+- `bitcopark-base` 프로젝트 진행
 
 
 ## etc
