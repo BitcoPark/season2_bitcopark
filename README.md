@@ -68,7 +68,7 @@
       <a href="https://github.com/PaiLv99">
         <img src="https://mud-kage.kakaocdn.net/dn/ddUiy9/btsdGABygpb/MsARp4M5vZdcumFmyHKoN1/c360.jpg" width="110px" height="90px" alt=""/>
         <br />
-        <sub><b>❌배지환</b></sub></a><br />
+        <sub><b>배지환</b></sub></a><br />
         <a href="https://github.com/" title="Code">💻</a>
     </td>
     <td align="center">
@@ -92,7 +92,7 @@
     <td align="center">
       <a href="https://github.com/">
         <img src="https://images.pexels.com/photos/2541407/pexels-photo-2541407.jpeg" width="110px;" height="90px" alt=""/><br />
-        <sub><b>❔전은기</b></sub></a><br />
+        <sub><b>전은기</b></sub></a><br />
         <a href="https://github.com/Jeoneungi" title="Code">💻</a>
     </td>
 
